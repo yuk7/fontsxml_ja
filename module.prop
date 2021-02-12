@@ -1,0 +1,6 @@
+id=fontsxml_noto_ja
+name=fonts.xml noto japanese
+version=v1
+versionCode=1
+author=yuk7
+description=fonts.xml that preferentially uses Japanese Kanji fonts
