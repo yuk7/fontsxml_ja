@@ -1,6 +1,6 @@
-id=fontsxml_noto_ja
-name=fonts.xml noto japanese
-version=v1
-versionCode=1
+id=fontsxml_ja
+name=fonts.xml modifier for japanese
+version=v2.0
+versionCode=20
 author=yuk7
-description=fonts.xml that preferentially uses Japanese Kanji fonts
+description=Modify fonts.xml to that preferentially uses Japanese Kanji fonts

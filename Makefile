@@ -11,6 +11,8 @@ $(OUT_ZIP): META-INF module.prop
 test:
 	$(SH) -n META-INF/com/google/android/update-binary
 	$(SH) -n META-INF/com/google/android/updater-script
+	$(SH) -n customize.sh
+	$(SH) -n post-fs-data.sh
 
 clean:
 	rm -f $(OUT_ZIP)
